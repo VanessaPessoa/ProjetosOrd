@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1572110170 source:c:\users\vanessa\documents\ord1\heapsort\heapsort\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Heapsort.h"
+
+1572110253 source:c:\users\vanessa\documents\ord1\heapsort\heapsort\heapsort.c
+	<stdio.h>
+
+1572110170 c:\users\vanessa\documents\ord1\heapsort\heapsort\heapsort.h
+
+1573072166 source:c:\users\vanessa\documents\5°periodo\ord\projetosord-master\heapsort\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Heapsort.h"
+
+1573072070 c:\users\vanessa\documents\5°periodo\ord\projetosord-master\heapsort\heapsort.h
+
+1573071982 source:c:\users\vanessa\documents\5°periodo\ord\projetosord-master\heapsort\heapsort.c
+	<stdio.h>
+
