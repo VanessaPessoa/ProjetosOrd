@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1585150185 source:c:\users\vanessa\documents\ord\vermelho-preto\leitura.c
+	"leitura.h"
+
+1585150782 c:\users\vanessa\documents\ord\vermelho-preto\leitura.h
+	<stdio.h>
+
+1585155951 source:c:\users\vanessa\documents\ord\vermelho-preto\redblack.c
+	"RedBlack.h"
+
+1585155977 c:\users\vanessa\documents\ord\vermelho-preto\redblack.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1585156172 source:c:\users\vanessa\documents\ord\vermelho-preto\main.c
+	<stdio.h>
+	"RedBlack.h"
+
